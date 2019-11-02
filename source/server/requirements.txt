@@ -1,6 +1,6 @@
 # Delete this first line later, version 0.15.0 is not
 # compatible with Docker for Windows
-werkzeug==0.14.1
+werkzeug==0.15.3
 Flask
 Flask-Restful
 Flask-SQLAlchemy
